@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-pandas
-numpy
-pandas_ta
-websockets
-python-dotenv
-requests
